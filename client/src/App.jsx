@@ -28,7 +28,7 @@ function App() {
 
         <li className='link'>
           <a href="mailto:lorenzelektrik@gmail.com">
-            <img src='../public/10507049.png' alt="" />
+            <img src='/10507049.png' alt="" />
             email
           </a>
         </li>
