@@ -34,8 +34,8 @@ function App() {
         </li>
 
         <li className='link'>
-          <a style={{textAlign : "center" }} >
-            +9005518880737
+          <a style={{padding : "0 10px" }} >
+            <b>Phone Number:</b>+9005518880737
           </a>
         </li>
       </ul>
