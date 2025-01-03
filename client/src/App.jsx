@@ -13,7 +13,7 @@ function App() {
         </li>
 
         <li className='link'>
-          <a href="https://2u.pw/anXDE5Ln">
+          <a href="https://wa.me/qr/HDSC2GX33YQ3C1">
             <img src='/rb_2151296979.png' alt="" />
             what's app
           </a>
