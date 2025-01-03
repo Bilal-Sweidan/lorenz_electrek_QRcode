@@ -32,6 +32,12 @@ function App() {
             email
           </a>
         </li>
+
+        <li className='link'>
+          <a style={{textAlign : "center" }} >
+            +9005518880737
+          </a>
+        </li>
       </ul>
     </main>
   )
